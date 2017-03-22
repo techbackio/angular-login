@@ -1,0 +1,24 @@
+{
+  "name": "AngularExperiments",
+  "authors": [
+    "Tanay Pratap (tanay.mit@gmail.com)"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-material": "^1.0.9",
+    "angular-resource": "^1.5.7",
+    "angular-route": "^1.5.6",
+    "angular-ui-router": "^0.3.1",
+    "bootstrap": "^3.3.6"
+  }
+}
